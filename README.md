@@ -1,3 +1,6 @@
 # Project-Presentation
-# Major cybersecurity incidents
-project title, team members (names and student numbers), topic summary, YouTube video link, and a brief description of each member's role.
+## Major cybersecurity incidents
+Project title and team members (names + student numbers)
+Topic summary (2–3 sentences)
+Link to the YouTube video. (Make it PUBLIC)
+Brief description of each member's contribution
