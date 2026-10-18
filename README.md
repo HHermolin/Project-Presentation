@@ -9,6 +9,7 @@ What's the recent past and possible future of major cybersecurity incidents? How
 [Video Link](https://www.youtube.com/)
 ### Brief description of each member's contribution
 - Hayden:
-  - .
+  - Topic 1: What are breaches/how do they happen
+  - Topic 2: History of data breaches
 - Ruien:
   - .
