@@ -15,6 +15,10 @@ Other significant data breaches in history include First American Financial in 2
 With the severity and frequency of data breaches, it’s likely you or someone you know has been affected and has had personal information accessed without their knowledge or consent.
 Future of breaches/cybersecurity
 
-### ?
+### The Future of Data Breaches
+In the future, data breaches may become more dangerous because of new technology. First, hackers can use AI to create more realistic phishing emails and cyberattacks. Second, as more personal information is stored online, the risk of data breaches may increase. However, technology can also help prevent these attacks. For example, companies can use AI security systems to detect suspicious activities and respond faster. Overall, technology can create both new risks and better protection.
+
+###How to Protect Yourself from Data Breaches
+There are several simple ways to protect ourselves from data breaches. First, we should use strong and different passwords for each account. Second, enabling multi-factor authentication adds extra security, even if someone steals our password. Third, we should avoid suspicious emails and links because they may be phishing attacks. Finally, keeping our software updated can fix security problems. Although we cannot prevent every data breach, these simple steps can greatly reduce our personal risks.
 
 ### End
