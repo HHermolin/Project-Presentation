@@ -1,4 +1,4 @@
-Hayden
+### Hayden
 - https://www.microsoft.com/en-us/security/business/security-101/what-is-a-data-breach
 - https://haveibeenpwned.com/PwnedWebsites
 - https://www.bbc.co.uk/news/business-41493494
@@ -6,3 +6,7 @@ Hayden
 - https://www.forbes.com/sites/kateoflahertyuk/2018/11/30/marriott-breach-what-happened-how-serious-is-it-and-who-is-impacted/
 - https://www.forbes.com/sites/ajdellinger/2019/05/26/understanding-the-first-american-financial-data-leak-how-did-it-happen-and-what-does-it-mean/
 - https://support.microsoft.com/en-us/defender/national-public-data-breach-what-you-need-to-know
+### Ruien
+- https://www.enisa.europa.eu/publications/enisa-threat-landscape-2026?utm_source
+- https://www.enisa.europa.eu/news/etl-2025-eu-consistently-targeted-by-diverse-yet-convergent-threat-groups?utm_source#contentList
+- https://www.cisa.gov/cybersecurity-awareness-month
