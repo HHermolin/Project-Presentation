@@ -12,4 +12,5 @@ What's the recent past and possible future of major cybersecurity incidents? How
   - Topic 1: What are breaches/how do they happen
   - Topic 2: History of data breaches
 - Ruien:
-  - .
+  - Topic 3: The future of data breaches
+  - Topic 4: How to Protect Yourself from Data Breaches
