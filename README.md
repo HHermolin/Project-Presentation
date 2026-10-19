@@ -6,7 +6,7 @@ Ruien Wu 125934265
 ### Topic summary (2–3 sentences)
 What's the recent past and possible future of major cybersecurity incidents? How do they tend to happen, and how might they be prevented?
 ### Link to the YouTube video. (Make it PUBLIC)
-[Video Link](https://studio.youtube.com/channel/UClDN_uWEdl1JjRci3hV5cog/content)
+[Video Link](https://youtu.be/0YyxJaPlpwE?si=rLhNz0hlLINUg78a)
 ### Brief description of each member's contribution
 - Hayden:
   - Topic 1: What are breaches/how do they happen
